@@ -20,11 +20,6 @@ def decode(strs)->list[str]:
     return ans
         
         
-        
-                
-            
-            
-
 lis = ["neet","code","love","you"]
 st = "4#neet4#code4#love3#you"
 print(encode(lis))
